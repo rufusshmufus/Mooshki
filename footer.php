@@ -1,0 +1,1 @@
+<?php include $_SERVER['DOCUMENT_ROOT'].'/wp-content/themes/bphome/footer.php'; ?>
